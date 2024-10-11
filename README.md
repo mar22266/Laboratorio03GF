@@ -1,5 +1,5 @@
 # LABORATORIO 3 - Gráficos por Computadora
-
+# Obj en la carpeta de assets
 ## Descripción
 Este proyecto de Rust utiliza `minifb` y `nalgebra_glm` para renderizar un modelo 3D de una nave en tiempo real. La aplicación permite interactuar con la nave mediante el teclado para moverla, escalarla y rotarla en un espacio tridimensional.
 
